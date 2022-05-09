@@ -1,0 +1,19 @@
+
+============== Experiments on Swedish ==============
+
+------------Extract Train Feature via pretrained CNN ------------
+
+------------Feature Length: 10011, Train Num: 375----------
+
+------------Extract Test Feature via pretrained CNN ------------
+Accuracy up to 00075 tests is nn(98.67%), nncos(98.67%)
+Accuracy up to 00150 tests is nn(98.67%), nncos(98.67%)
+Accuracy up to 00225 tests is nn(99.11%), nncos(99.11%)
+Accuracy up to 00300 tests is nn(99.33%), nncos(99.33%)
+Accuracy up to 00375 tests is nn(99.47%), nncos(99.47%)
+Accuracy up to 00450 tests is nn(99.56%), nncos(99.56%)
+Accuracy up to 00525 tests is nn(99.62%), nncos(99.62%)
+Accuracy up to 00600 tests is nn(99.67%), nncos(99.67%)
+Accuracy up to 00675 tests is nn(99.70%), nncos(99.70%)
+Accuracy up to 00750 tests is nn(99.73%), nncos(99.73%)
+>> 
